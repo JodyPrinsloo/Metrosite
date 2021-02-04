@@ -138,7 +138,7 @@ div, section, footer, header {
         display: grid;
         width: 85vw;
         max-width: 70rem;
-        margin: @ auto;
+        margin: 0 auto;
     }
 
 .m-col-2 {
