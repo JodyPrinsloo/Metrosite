@@ -164,6 +164,13 @@ div, section, footer, header {
 /* Medium only */ 
 @media screen and (min-width: 40em) and
 (max-width: 63.9375em) {
+
+    .special-project {
+        grid-column-start: 1;
+        grid-column-end: -1;
+
+    }
+
 }
 
 
@@ -202,6 +209,17 @@ div, section, footer, header {
 /* ==========================================================================
    THEME
    ========================================================================== */
+
+.page__slider {
+    background-color: rgb(232, 232, 232);
+}
+
+
+.page__footer {
+    background-color: rgb(56, 56, 56);
+}
+
+
 
 
 /*
